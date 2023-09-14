@@ -24,7 +24,7 @@ For more information regarding the project, please read more **[here](https://gi
 
 4. **Execute The Jupyter Notebook**
    
-   **PLEASE REFER TO `FinalReport/regression_dev_test_docs.ipynb` FOR FULL DOCUMENTATION**
+   **PLEASE REFER TO `FinalReport/regression_dev_test_docs.ipynb` FOR FULL DOCUMENTATION (INCLUDING REPORT)**
 
    ```bash
    jupyter notebook regression_dev_test.ipynb
