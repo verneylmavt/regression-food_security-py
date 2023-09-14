@@ -22,8 +22,8 @@ For more information regarding the project, please read more **[here](https://gi
    cd regression-food_security-py
    ```
 
-4. **Execute The Jupyter Notebook**
-   
+3. **Execute The Jupyter Notebook**
+
    **PLEASE REFER TO `FinalReport/regression_dev_test_docs.ipynb` FOR FULL DOCUMENTATION (INCLUDING REPORT)**
 
    ```bash
@@ -31,7 +31,7 @@ For more information regarding the project, please read more **[here](https://gi
    ```
 
    ***
-   
+
    **Heads Up**: There are no infinite loops in the code, it takes ~5s to execute
 
 ## Dependencies
@@ -44,6 +44,7 @@ pip install numpy
 pip install pandas
 pip install seaborn
 pip install matplotlib
+pip install scikit-learn
 ```
 
 Or alternatively:
