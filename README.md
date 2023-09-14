@@ -16,15 +16,23 @@ For more information regarding the project, please read more **[here](https://gi
    git clone https://github.com/verneylmavt/regression-food_security-py.git
    ```
 
-2. **Execute The Jupyter Notebook**
+2. **Navigate to the Project Directory**
+
+   ```bash
+   cd regression-food_security-py
+   ```
+
+4. **Execute The Jupyter Notebook**
    
    **PLEASE REFER TO `FinalReport/regression_dev_test_docs.ipynb` FOR FULL DOCUMENTATION**
 
    ```bash
-   jupyter notebook es_hmm_dev_test.ipynb
+   jupyter notebook regression_dev_test.ipynb
    ```
 
-   **Heads Up**: There are no infinite loops in the code, it takes ~10s to execute
+   ***
+   
+   **Heads Up**: There are no infinite loops in the code, it takes ~5s to execute
 
 ## Dependencies
 
@@ -49,7 +57,7 @@ pip install -r requirements.txt
 This project was made possible thanks to the hard work and dedication of the following team members:
 
 - Bundhoo Simriti
-- Elvern Neylmav Tanny
+- **[Elvern Neylmav Tanny](https://github.com/verneylmavt)**
 - Koh Chee Kiat
 - Haritha Shraeya Rajasekar
 - Mahima Sharma
