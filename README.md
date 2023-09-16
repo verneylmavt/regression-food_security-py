@@ -65,5 +65,3 @@ This project was made possible thanks to the hard work and dedication of the fol
 - Zhang Jianyu
 
 Kudos to all contributors for their invaluable insights and dedication.
-
-<!-- THIS IS A LEGIT COMMENT --!>
