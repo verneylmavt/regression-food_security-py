@@ -58,7 +58,7 @@ pip install -r requirements.txt
 This project was made possible thanks to the hard work and dedication of the following team members:
 
 - Bundhoo Simriti
-- **[Elvern Neylmav Tanny](https://github.com/verneylmavt)**
+- Elvern Neylmav Tanny
 - Koh Chee Kiat
 - Haritha Shraeya Rajasekar
 - Mahima Sharma
@@ -66,4 +66,4 @@ This project was made possible thanks to the hard work and dedication of the fol
 
 Kudos to all contributors for their invaluable insights and dedication.
 
-<!-- THIS IS A COMMENT --!>
+<!-- THIS IS COMMENT --!>
